@@ -10,6 +10,11 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+```{r}
+x = 2
+x = x + 3
+print(x)
+```
 
 ## R Markdown
 
